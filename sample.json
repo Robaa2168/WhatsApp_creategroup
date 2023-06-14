@@ -1,0 +1,33 @@
+{
+    "success": true,
+    "data": {
+      "id": "120363158937352120@g.us",
+      "name": "Assignment",
+      "participants": [
+        "254727372017@c.us",
+        "254721262120@c.us"
+      ],
+      "admins": [
+        "254721262120@c.us"
+      ],
+      "config": {
+        "edit": "all",
+        "send": "all",
+        "disappear": false
+      }
+    }
+  }
+
+  {
+    "success": true,
+    "data": {
+      "id": "120363160537707852@g.us",
+      "participants": [],
+      "admins": [],
+      "config": {
+        "edit": "all",
+        "send": "all",
+        "disappear": false
+      }
+    }
+  }
